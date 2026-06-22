@@ -1,7 +1,7 @@
 <!-- =========================  HEADER  ========================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C16A&center=true&vCenter=true&width=700&lines=%24+whoami;Software+Engineering+Intern+%40+Mottu;Backend+(.NET%2FC%23)+%26+Data+Engineering;ADS+%40+FIAP+%7C+InfoSec+%7C+Cloud+%7C+IA;Always+learning+%F0%9F%9A%80" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C16A&center=true&vCenter=true&width=700&lines=%24+whoami;Software+Engineering+Intern+%40+Mottu;Backend+(.NET%2FC%23)+%26+Data+Engineering;ADS+Graduate+%40+FIAP+%7C+InfoSec+%7C+Cloud;Always+learning+%F0%9F%9A%80" alt="typing banner" />
 
 <a href="https://www.linkedin.com/in/kauesamartino">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C16A&labelColor=0D1117" />
@@ -20,9 +20,9 @@
 ```bash
 kaue@mottu:~$ cat about.md
 
-  > 👋  Kauê Samartino — Estudante de ADS na FIAP e estagiário de
+  > 👋  Kauê Samartino — Formado em ADS pela FIAP e estagiário de
   >     engenharia na Mottu.
-  > 👋  CS student @ FIAP and Software Engineering Intern @ Mottu.
+  > 👋  ADS graduate @ FIAP and Software Engineering Intern @ Mottu.
   >
   > 🧠  Curto / Into: InfoSec · IA · Cloud · DevOps · arquitetura de software
   > 🎯  Foco / Focus: Backend (.NET/C#) + Data Engineering (GCP)
