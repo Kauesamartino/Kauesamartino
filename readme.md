@@ -83,12 +83,14 @@ kaue@mottu:~$ ls -la ~/mottu/work
 </div>
 
 <!-- =========================  SNAKE  ========================= -->
+<!-- A cobrinha só renderiza depois que a Action "Generate Snake" rodar 1x e criar o branch `output`.
+     Quando o branch existir, é só descomentar o bloco abaixo:
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Kauesamartino/Kauesamartino/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
 </div>
+-->
+
 
 <!-- =========================  TROPHIES  ========================= -->
 
