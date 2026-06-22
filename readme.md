@@ -57,7 +57,7 @@ kaue@mottu:~$ ls -la ~/mottu/work
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,java,spring,gcp,postgres,rabbitmq,grafana,docker,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,gcp,postgres,rabbitmq,grafana,docker&theme=dark" />
 
 </div>
 
